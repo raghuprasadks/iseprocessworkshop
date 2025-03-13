@@ -1,0 +1,69 @@
+Agenda:
+1. Backend
+2. Web Application architecture
+Client - Server
+thin client - Server
+server side programming
+java - JSP (Java Server pages)
+Microsoft - ASP (Active Server Pages)
+
+client / server
+2 tier
+3 tier
+presentation layer/application logic/data layer 
+n tier
+presentation layer/application logic/third party integration/data layer 
+
+
+3. Interface front end and backend
+Sign Up -> Submit a form->Server
+Backend -
+python 
+Request - > Response
+http/s
+Web Server to handle the request
+Database 
+Sign Up
+http methods - post,get,put,delete
+Flask - Micro web server developed
+on python
+sql - MySQL server
+user
+API - Application Programming Interface
+Frontend developer
+html/css/js/ajax/react.js
+Backend developer
+python/flask/Django/sql
+Fullstack developer
+
+Python
+Constructor in python
+1. Create a Product Class
+having following attributes
+code,name,supplier,price
+a. Write a constructor to accept
+above attributes
+b. Write a information method
+to display attributes received in 
+the constructor
+2. Create a ProductManagement class
+having following methods
+addProduct(product)
+this method should add product to a cart
+take cart as a list
+displayProducts()
+this method should display the list
+of products added to the cart
+
+
+C:\Users\lenovo\AppData\Local\Programs\Python\Python313
+C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Scripts
+
+visual studio code
+inside the backend folder
+pip install flask
+
+
+
+
+

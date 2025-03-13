@@ -1,0 +1,169 @@
+1. Prototyping
+
+a. create workshop folder
+b. create programs folder
+c. create ui folder inside programs
+d. Open the ui folder from visual studio code
+e. create signup.html
+with following fields
+name - <text box>
+email - <text box>
+mobile - <text box>
+password - <text box>
+<Sign Up> button
+
+Extension
+add live server extension
+run the live server
+1. create index.html
+treat this as landing page of
+your website
+Write some information about you in this page
+2. create signup.html
+3. create login.html
+add following fields
+email : <text>
+password : <text>
+<login> button
+4. Add link of signup and login in the
+index.html page
+5. add background to the index.html
+also your photo
+
+1.download and install git
+https://git-scm.com/downloads 
+2.create an account with GitHub.com
+
+3. login to GitHub account
+4. create new repository
+
+echo "# iseprocessworkshop" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/iseprocessworkshop.git
+git push -u origin main
+
+
+git and GitHub
+
+git- local database/repository
+GitHub- remote database/repository
+
+
+git commands
+
+1. check the git version
+open command prompt
+git --version
+2. open ui folder in command prompt
+3. git init
+4. to add index.html to git repository 
+git add index.html
+5. to add all the file
+git add .
+6. git status
+7. git commit -m "first commit"
+you will get an error when you do for 
+the first time
+saying tell me who you are
+set the email and user name
+8. git branch -M main
+9. git remote add origin https://github.com/raghuprasadks/iseprocessworkshop.git
+10.git push -u origin main
+ 
+C:\Program Files\Git\bin
+
+to set the path
+
+type edit in windows search bar
+edit system environment variable
+
+git commands for adding new file or modifying  the existing file
+
+
+a. Modifying the existing file
+modify index.html
+
+
+git status
+git add .
+git commit -m "added my social media link"
+git push
+
+hosting static web pages
+
+1. get into a repository with your static web pages
+using GitHub
+2. click on settings
+3. click on pages on the left panel
+4. select branch as main and save
+5. refresh the page to get the 
+link of the static website
+
+
+https://kaushalya.tech/
+click on git
+click on repositories
+click on iseprocessworkshop
+https://github.com/raghuprasadks/iseprocessworkshop.git
+to clone a repository
+git clone https://github.com/raghuprasadks/iseprocessworkshop.git
+cd iseprocessworkshop
+dir
+
+to pull latest content
+git pull
+
+w3schools git
+
+https://www.w3schools.com/git/
+
+
+Assignment..
+
+1. You department is hosting a hackathon on latest trends in generativeai
+your hod has asked you to create a sample website and check-in the code
+into a hackathon repository
+2. Hod also informs you to deploy the static website on GitHub
+and share the repository/webpage link
+
+Design
+wireframing
+
+Visual design
+
+GitHub co-pilot
+
+I want to develop webpages to organize hackathon on latest trends in generative ai. Can you help me to develop static web pages
+
+quiz
+
+https://www.w3schools.com/git/
+
+https://www.w3schools.com/git/git_quiz.asp?remote=github
+
+
+
+git branch
+git checkout
+resolving conflicts
+
+collaborator - git collaborator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
