@@ -65,5 +65,36 @@ pip install flask
 
 
 
+database
 
+1. Create demodb in mysqlserver
 
+2. create user table 
+
+with following fields
+
+id int primary auto_increment
+name varchar(50)
+email varchar(50)
+mobile int
+password varchar(50)
+
+Steps
+1. open MySQL command line client
+2. enter the password
+3. show databases;
+4. create database demodb;
+5. use demodb;
+6. create user table
+id int primary auto_increment
+name varchar(50)
+email varchar(50)
+mobile int
+password varchar(50)
+
+create table user(id int primary key auto_increment,
+name varchar(50),email varchar(50),mobile bigint,
+password varchar(50));
+
+in visual studio code/command prompt
+pip install pymysql
